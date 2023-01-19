@@ -5,6 +5,8 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeutan99&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 </br>
+
+-----
 <h3 align="center">📚 Studying 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -30,6 +32,11 @@
 
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deutan99&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deutan99&layout=compact)](https://github.com/Deutan99)
+---
+<h2>My Github Stats</h2>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deutan99&theme=dark&show_icons=true)
+
+<h2>My Most Language</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deutan99&layout=compact)](https://github.com/Deutan99)
