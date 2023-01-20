@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c%2B%2B&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 <h3 align="center"> ⚒️ Tools ⚒️ </h3>
