@@ -1,3 +1,4 @@
+<div align="center">
 <h3 align="center">🧑‍💻 Deutan 🧑‍💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>
@@ -42,3 +43,4 @@
 <h2>My Most Language</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deutan99&layout=compact)](https://github.com/Deutan99)
+</div>
