@@ -7,7 +7,6 @@
 </p>
 </br>
 
------
 <h3 align="center">📚 Studying 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -36,7 +35,6 @@
 
 </br>
 
----
 <h2>My Github Stats</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deutan99&theme=dark&show_icons=true)
