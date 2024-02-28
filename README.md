@@ -41,5 +41,4 @@
 
 <h2>My Most Language</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deutan99&layout=compact)](https://github.com/Deutan99)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deutan99&layout=compact&langs_count=10)](https://github.com/Deutan99/github-readme-stats)</div>
